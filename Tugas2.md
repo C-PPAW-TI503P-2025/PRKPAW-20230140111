@@ -2,17 +2,16 @@
 
 ## Endpoints API
 1. GET /api/books
-   ![Screenshot GET all books](./get_mengambil_semua_buku.png) 
+   ![Screenshot GET all books](./images/get_mengambil_semua_buku.jpg) 
 
 2. GET /api/books/:id
-  ![Screenshot GET book by ID]("./get_mengambil_buku_dengan_id_1.jpg")
-
+  ![Screenshot GET book by ID](./images/get_mengambil_buku_dengan_id_1.jpg)
 
 3. POST /api/books
-   ![Screenshot POST book](./post_membuat_buku_baru.png)
+   ![Screenshot POST book](./images/post_membuat_buku_baru.jpg)
 
 4. PUT /api/books/:id
-   ![Screenshot PUT book](./put_update_buku.png)
+   ![Screenshot PUT book](./images/put_update_buku.jpg)
 
 5. DELETE /api/books/:id
-   ![Screenshot DELETE book](./delete_hapus_buku.png)
+   ![Screenshot DELETE book](./images/delete_hapus_buku.jpg)

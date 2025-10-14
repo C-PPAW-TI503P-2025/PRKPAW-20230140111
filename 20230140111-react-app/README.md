@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# PRKPAW-20230140111
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -69,6 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 # PRKPAW-20230140111
->>>>>>> 99832aae26712be31bb0c28a32c2978892cac3ac
+ 99832aae26712be31bb0c28a32c2978892cac3ac

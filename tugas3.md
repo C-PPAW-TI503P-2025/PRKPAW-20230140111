@@ -9,7 +9,7 @@
 ![checkin2](./images/checkin2.jpg)
 
 ### 3️⃣ Check-out
-![checkout1](/images/checkout1.jpg)
+![checkout1](./images/checkout1.jpg)
 
 ### 4️⃣ Check-out Tanpa Check-in (Gagal)
 ![checkout2](./images/checkout2.jpg)

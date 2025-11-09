@@ -11,5 +11,8 @@ router.get('/report', presensiController.getReport);
 
 router.put('/:id', presensiController.updatePresensi);
 router.delete('/:id', presensiController.deletePresensi);
+router.get('/report', presensiController.Report);
 
 module.exports = router;
+
+
